@@ -1,4 +1,5 @@
 # swayam-cdi and napis-kallu
-This is my first GIT repository
+This is our first GIT repository
 <br>
 Author : Swayam Saukarja (BUET)
+Nafis Iqbal (BUET)
